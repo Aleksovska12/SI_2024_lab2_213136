@@ -2,7 +2,7 @@ Elena_Aleksovska_213136
 
 
 1.Control Flow Graph
-![Control Flow Graph](./cfg.png)
+![Control Flow Graph](./CFG.png)
 
 2.Цикломатската комплексност
 
